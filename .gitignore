@@ -1,0 +1,7 @@
+*
+
+
+!.gitignore
+!*.FCStd
+!*.stl
+!*.vsp3
